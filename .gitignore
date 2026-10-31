@@ -1,0 +1,9 @@
+node_modules/
+.env
+.env.*.local
+client/dist/
+server/coverage/
+.DS_Store
+npm-debug.log*
+server/text
+*.pem
